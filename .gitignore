@@ -1,0 +1,6 @@
+node_modules/
+tmp/
+newrelic_agent.log
+.env
+.DS_Store
+
